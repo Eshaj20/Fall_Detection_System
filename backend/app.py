@@ -10,7 +10,7 @@ CORS(app)
 
 # Load the trained KNN model and scaler
 MODEL_PATH = r"your_model_path"
-SCALER_PATH = r"your_scaler_path"
+SCALER_PATH = r"your_scaler_model_path"
 model = joblib.load(MODEL_PATH)
 scaler = joblib.load(SCALER_PATH)
 
