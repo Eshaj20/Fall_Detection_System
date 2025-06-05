@@ -6,4 +6,4 @@ Trained models :
 - knn_model.pkl (binary classification)
 - knn_model_all.pkl (multiclass classification)
   
-We have evaluated with different machine learning techniques like catboost,xgboost,KNN and random forest we have got a good accuracy in KNN which is around 96% using binary classification and 92% using multiclass classification.Tested the sampled data by creating a platform using  frontend(Reactjs) and backend(Flask) by manually adding the inputs. And also built a cross-platform mobile app (Android/iOS) using React Native with real-time fall alerts, SOS functionality, live location tracking, and emergency contact calling.
+We have evaluated with different machine learning techniques like catboost,xgboost,KNN and random forest we have got a good accuracy in KNN which is around 96% using binary classification and 92% using multiclass classification. Tested the sampled data by manually adding the data into a platform where it has been made using frontend(Reactjs) and backend(Flask).And also built a cross-platform mobile app (Android/iOS) using React Native with real-time fall alerts, SOS functionality, live location tracking, and emergency contact calling.
