@@ -1,6 +1,6 @@
 #Fall_Detection_System
 -----------------------------------------------------------------------
--Used Dataset : https://github.com/nhoyh/HR_IMU_falldetection_dataset
+- Used Dataset : https://github.com/nhoyh/HR_IMU_falldetection_dataset
 
 Trained models :
 - knn_model.pkl (binary classification)
@@ -8,4 +8,4 @@ Trained models :
   
 We have evaluated with different machine learning techniques like catboost,xgboost,KNN and random forest we have got a good accuracy in KNN which is around 96% using binary classification and 92% using multiclass classification. Tested the sampled data by manually adding the data into a platform where it has been made using frontend(Reactjs) and backend(Flask).And also built a cross-platform mobile app (Android/iOS) using React Native with real-time fall alerts, SOS functionality, live location tracking, and emergency contact calling.
 
--Demo Video :  https://drive.google.com/file/d/1obMsI_Lfy0LN4a6dlX5d63ZHFQZnQksz/view?usp=drivesdk
+- Demo Video :  https://drive.google.com/file/d/1obMsI_Lfy0LN4a6dlX5d63ZHFQZnQksz/view?usp=drivesdk
