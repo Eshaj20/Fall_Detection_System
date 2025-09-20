@@ -1,4 +1,4 @@
-#Fall_Detection_System
+**Fall_Detection_System**
 -----------------------------------------------------------------------
 - Used Dataset : https://github.com/nhoyh/HR_IMU_falldetection_dataset
 - From the dataset we mainly included the 10 parameters which are ax, ay, az, w, x, y, z, droll, dpitch, dyaw.
